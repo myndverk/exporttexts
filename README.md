@@ -1,2 +1,2 @@
-# Export Texts
-Export all texts to a folder.
+# Export Texts - A Blender Addon
+Export all texts in Blenders text editor to a folder.
